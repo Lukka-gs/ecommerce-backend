@@ -4,7 +4,7 @@
   "description": "Backend em Node.js + Express + MySQL para e-commerce.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
