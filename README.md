@@ -4,13 +4,13 @@ Backend em Node.js + Express + MySQL para um e-commerce simples.
 
 ## Configuração
 
-1. Crie o arquivo `.env` com as seguintes variáveis:
+1. Crie o arquivo `.env` com as seguintes variáveis (exemplo para XAMPP com usuário `root` sem senha):
 
     ```env
     DB_HOST=localhost
-    DB_USER=seu_usuario
-    DB_PASSWORD=sua_senha
-    DB_NAME=seu_banco
+    DB_USER=root
+    DB_PASSWORD=
+    DB_NAME=ecommerce
     PORT=3000
     ```
 
